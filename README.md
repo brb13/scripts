@@ -2,8 +2,6 @@
 
 The files in this repository were used to configure the network depicted below.
 
-![Images/Network Architecture Diagram.png]
-
  ![Red Team Network Map jpg](https://user-images.githubusercontent.com/84424261/128754541-dd920dbc-5db3-4679-91da-e3dcdafa0889.jpg)
 
 
