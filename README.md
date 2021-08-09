@@ -1,3 +1,9 @@
+This is a collection of Linux and Ansible scripts from cyber class.
+
+Most of the scripts are used to configure cloud servers with different docker containers.
+
+the final setup is of four servers running instances of DVWA containers, alongside a jump box and an ELK server for running an ELK stack container.
+
 ## Automated ELK Stack Deployment
 
 The files in this repository were used to configure the network depicted below.
