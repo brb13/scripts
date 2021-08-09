@@ -4,7 +4,7 @@ The files in this repository were used to configure the network depicted below.
 
 ![Images/Network Architecture Diagram.png]
 
- 
+ ![Red Team Network Map jpg](https://user-images.githubusercontent.com/84424261/128754541-dd920dbc-5db3-4679-91da-e3dcdafa0889.jpg)
 
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the YAML file may be used to install only certain pieces of it, such as Filebeat.
